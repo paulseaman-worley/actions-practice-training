@@ -19,6 +19,7 @@ jobs:
       - name: Echo the greeting's time
         run: echo ${{ github.repository }}
       # Upload an artifact to GitHub
+      - uses: actions/checkout@v2
       - name: Upload Artifact to Github Build Job
         uses: actions/upload-artifact@v2
         with:
