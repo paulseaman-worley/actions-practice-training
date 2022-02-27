@@ -24,7 +24,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: readme-artifact
-          path: ${{ github.repository }}/README.md
+          path: ./README.md
 
       # Download an artifact from GitHub
       - name: Download Artifact from Github Build Job
