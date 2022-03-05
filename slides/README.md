@@ -1,6 +1,6 @@
 # Slides
 
-[GitHub Actions Fundamentals](https://github.com/gh-mentor/actions-training-materials/blob/main/slides/GitHub-Actions-Fundamentals.pdf)
+[PDF: GitHub Actions Fundamentals](https://github.com/gh-mentor/actions-training-materials/blob/main/slides/GitHub-Actions-Fundamentals.pdf)
 
 # GitHub Actions Quick Links
 
