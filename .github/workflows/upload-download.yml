@@ -7,9 +7,10 @@ on:
 
 jobs:
   sharecontent:
-    name: do upload and download
     # This job runs on Linux
     runs-on: ubuntu-latest
+    
+    steps:
     
       # Upload an artifact to GitHub
       - uses: actions/checkout@v2
