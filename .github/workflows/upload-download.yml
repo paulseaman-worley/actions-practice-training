@@ -1,0 +1,26 @@
+
+name: Demonstrate upload and download
+# This workflow is triggered on pushes to the repository.
+on: workflow-dispatch
+
+jobs:
+  share-content:
+    # Job name is Greeting
+    name: do something
+    # This job runs on Linux
+    runs-on: ubuntu-latest
+    steps:
+    
+      # Upload an artifact to GitHub
+      - uses: actions/checkout@v2
+      - name: Upload Artifact to Github Build Job
+        uses: actions/upload-artifact@v2
+        with:
+          name: readme-artifact
+          path: ./README.md
+
+      # Download an artifact from GitHub
+      - name: Download Artifact from Github Build Job
+        uses: actions/download-artifact@v2
+        with:
+          name: readme-artifact
