@@ -1,11 +1,12 @@
 
-name: Demonstrate upload and download
+name: upload and download
 # This workflow is triggered on pushes to the repository.
-on: workflow_dispatch
+on: 
+  workflow_dispatch:
 
 jobs:
-  share-content:
-    name: do-something
+  sharecontent:
+    name: do upload and download
     # This job runs on Linux
     runs-on: ubuntu-latest
     
