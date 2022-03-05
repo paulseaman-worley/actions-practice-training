@@ -1,5 +1,3 @@
-
-
 name: upload and download
 
 on: 
@@ -11,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    
+        
       # Upload an artifact to GitHub
       - uses: actions/checkout@v2
       - name: Upload Artifact to Github Build Job
