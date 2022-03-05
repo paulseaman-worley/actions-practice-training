@@ -1,6 +1,13 @@
+# Slides
+
+[GitHub Actions Fundamentals](https://github.com/gh-mentor/actions-training-materials/blob/main/slides/GitHub-Actions-Fundamentals.pdf)
+
 # GitHub Actions Quick Links
 
 ## Workflow Syntax
+### 👇🔗 Click the dropdown menu below for Workflow Syntax links 🔗 👇
+
+<details>
 
 ### Basic Syntax
 
@@ -16,7 +23,7 @@
 
 [Workflow syntax for events](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#on/)
 
-[Webhook events](https://docs.github.com/en/actions/reference/events-that-trigger-workflows#webhook-events/) 
+[Events that trigger workflows](https://docs.github.com/en/actions/reference/events-that-trigger-workflows#webhook-events/) 
 
 [Webhook event payloads](https://docs.github.com/en/developers/webhooks-and-events/webhooks/webhook-events-and-payloads/)
 
@@ -89,12 +96,13 @@
 ### Function Expressions
 
 [Functions](https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions#format)
-
-### Demo
-
-[Demo Repo Template](https://github.com/ps-actions-sandbox/demo-workflow-syntax)
+  
+</details>
 
 ## Environments and Secrets
+### 👇🔗 Click the dropdown menu below for Environments and Secrets links 🔗 👇
+
+<details>
 
 [Environment docs](https://docs.github.com/en/actions/reference/environments)
 
@@ -125,12 +133,13 @@
 ### Permissions for GITHUB_TOKEN
 
 [Source blog](https://github.blog/changelog/2021-04-20-github-actions-control-permissions-for-github_token/)
-
-### Demo
-
-[Demo repo template](https://github.com/ps-actions-sandbox/demo-environments-secrets)
+  
+</details>
 
 ## Managing Workflows & Actions
+### 👇🔗 Click the dropdown menu below for Managing Workflows & Actions links 🔗 👇
+
+<details>
 
 ### Actions Policies
 
@@ -168,11 +177,12 @@
 
 [Actions best practices:](https://github.github.io/practices-knowledge-base/3-actions/actions-best-practices/)
 
-### Demo
-
-[GITHUB_TOKEN permissions](https://docs.github.com/en/actions/reference/authentication-in-a-workflow#permissions-for-the-github_token/)
+  </details>
 
 ## Building Actions
+### 👇🔗 Click the dropdown menu below for Building Actions links 🔗 👇
+
+<details>
 
 ### Writing Your Own Actions
 
@@ -214,11 +224,12 @@
 
 [CLI pattern](https://github.com/ActionsDesk/admin-support-issueops-actions/)
 
-### Demo
-
-[Writing Actions using command pattern](https://github.com/Link-/simple-action/) 
+</details>
 
 ## CI/CD
+### 👇🔗 Click the dropdown menu below for CI/CD links 🔗 👇
+
+<details>
 
 ### Basic CI workflow
 
@@ -256,12 +267,6 @@
 
 [Roadmap for customizable runners on GHEC](https://github.com/github/roadmap/issues/161/)
 
-### Demo
-
-[self-hosted-runner-on-azure](https://brendanthompson.com/posts/2021/09/github-actions-self-hosted-runner-on-azure/)
-
-
-
 ## Additional Samples and Documentations
 
 [Actions Changelog](https://github.blog/changelog/label/actions/)
@@ -270,11 +275,23 @@
 
 [Actions workflow samples](https://github.com/Azure/actions-workflow-samples/)
 
+</details>
 
 
+## Action links
+### 👇🔗 Click the dropdown menu below for more action links 🔗 👇
 
+<details>
 
+[Marketplace](https://github.com/marketplace)
+  
+[Generate sarif from fortify on demand](https://github.com/marketplace/actions/generate-sarif-from-fortify-on-demand)
+  
+[Checkout](https://github.com/actions/checkout)
 
+[Super Linter](https://github.com/github/super-linter)
+
+</details>
 
 
 
