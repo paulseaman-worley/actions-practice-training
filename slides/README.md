@@ -1,11 +1,11 @@
 # Slides
 
-[GitHub Actions Fundamentals](https://github.com/gh-mentor/actions-training-materials/blob/main/slides/GitHub-Actions-Fundamentals.pdf)
+[PDF: GitHub Actions Fundamentals](https://github.com/gh-mentor/actions-training-materials/blob/main/slides/GitHub-Actions-Fundamentals.pdf)
 
 # GitHub Actions Quick Links
 
 ## Workflow Syntax
-### 👇🔗 Click the dropdown menu below for Workflow Syntax links 🔗 👇
+##### 👇🔗 Click the dropdown menu below for Workflow Syntax links
 
 <details>
 
@@ -100,7 +100,7 @@
 </details>
 
 ## Environments and Secrets
-### 👇🔗 Click the dropdown menu below for Environments and Secrets links 🔗 👇
+##### 👇🔗 Click the dropdown menu below for Environments and Secrets links
 
 <details>
 
@@ -137,7 +137,7 @@
 </details>
 
 ## Managing Workflows & Actions
-### 👇🔗 Click the dropdown menu below for Managing Workflows & Actions links 🔗 👇
+##### 👇🔗 Click the dropdown menu below for Managing Workflows & Actions links
 
 <details>
 
@@ -180,7 +180,7 @@
   </details>
 
 ## Building Actions
-### 👇🔗 Click the dropdown menu below for Building Actions links 🔗 👇
+##### 👇🔗 Click the dropdown menu below for Building Actions links
 
 <details>
 
@@ -227,7 +227,7 @@
 </details>
 
 ## CI/CD
-### 👇🔗 Click the dropdown menu below for CI/CD links 🔗 👇
+##### 👇🔗 Click the dropdown menu below for CI/CD links
 
 <details>
 
@@ -279,7 +279,7 @@
 
 
 ## Action links
-### 👇🔗 Click the dropdown menu below for more action links 🔗 👇
+##### 👇🔗 Click the dropdown menu below for more action links
 
 <details>
 
