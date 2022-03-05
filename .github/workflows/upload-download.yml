@@ -1,15 +1,13 @@
 
 name: Demonstrate upload and download
 # This workflow is triggered on pushes to the repository.
-on: workflow-dispatch
+on: workflow_dispatch
 
 jobs:
   share-content:
-    # Job name is Greeting
-    name: do something
+    name: do-something
     # This job runs on Linux
     runs-on: ubuntu-latest
-    steps:
     
       # Upload an artifact to GitHub
       - uses: actions/checkout@v2
