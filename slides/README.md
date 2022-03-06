@@ -200,6 +200,8 @@
 
 [Composite action](https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action/)
 
+[Actions toolkit](https://github.com/actions/toolkit)
+
 [Super Linter](https://github.com/github/super-linter)
 
 [GitHub cache action (see action.yml)](https://github.com/actions/cache)
