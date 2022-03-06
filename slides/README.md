@@ -198,7 +198,9 @@
 
 [Docker Action](https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action/)
 
-[Composite action](https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action/) 
+[Composite action](https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action/)
+
+[Super Linter](https://github.com/github/super-linter)
 
 [GitHub cache action (see action.yml)](https://github.com/actions/cache)
 
@@ -290,8 +292,6 @@
 [Marketplace](https://github.com/marketplace)
 
 [Checkout](https://github.com/actions/checkout)
-
-[Super Linter](https://github.com/github/super-linter)
 
 [Dependabot version updates](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/enabling-and-disabling-dependabot-version-updates)
 
