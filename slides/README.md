@@ -206,6 +206,8 @@
 
 [GitHub cache action (see action.yml)](https://github.com/actions/cache)
 
+[Run actions locally](https://github.com/nektos/act)
+
 ### Using the GitHub API
 
 [REST libraries](https://docs.github.com/en/rest/overview/libraries/) 
