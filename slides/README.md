@@ -284,12 +284,12 @@
 <details>
 
 [Marketplace](https://github.com/marketplace)
-  
-[Generate sarif from fortify on demand](https://github.com/marketplace/actions/generate-sarif-from-fortify-on-demand)
-  
+
 [Checkout](https://github.com/actions/checkout)
 
 [Super Linter](https://github.com/github/super-linter)
+
+[Dependabot version updates](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/enabling-and-disabling-dependabot-version-updates)
 
 </details>
 
