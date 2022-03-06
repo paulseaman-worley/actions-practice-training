@@ -73,6 +73,8 @@
 
 [Essential features of GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions) 
 
+[Storing workflow data as artifacts](https://docs.github.com/en/actions/using-workflows/storing-workflow-data-as-artifacts)
+
 ### Marketplace
 
 [GitHub Marketplace](https://github.com/marketplace?type=actions)
