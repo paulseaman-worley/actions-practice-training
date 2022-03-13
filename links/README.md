@@ -1,7 +1,3 @@
-# Slides
-
-[PDF: GitHub Actions Fundamentals](https://github.com/gh-mentor/actions-training-materials/blob/main/slides/GitHub-Actions-Fundamentals.pdf)
-
 # GitHub Actions Quick Links
 
 ## Workflow Syntax
@@ -265,6 +261,8 @@
 
 [Adding self-hosted runners](https://docs.github.com/en/enterprise-cloud@latest/actions/hosting-your-own-runners/adding-self-hosted-runners/)
 
+[GitHub Actions Runner](https://github.com/actions/runner)
+
 ### Runner Groups
 
 [Managing access to self-hosted runners using groups](https://docs.github.com/en/enterprise-cloud@latest/actions/hosting-your-own-runners/managing-access-to-self-hosted-runners-using-groups/)
@@ -278,6 +276,8 @@
 [Roadmap for customizable runners on GHEC](https://github.com/github/roadmap/issues/161/)
 
 ## Additional Samples and Documentations
+
+[Kubernetes controller for GitHub Actions self-hosted runners](https://github.com/actions-runner-controller)
 
 [Actions Changelog](https://github.blog/changelog/label/actions/)
 
