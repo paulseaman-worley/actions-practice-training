@@ -293,6 +293,8 @@
 
 <details>
 
+[Managing signed commits](https://docs.github.com/en/enterprise-cloud@latest/authentication/managing-commit-signature-verification)
+
 [Marketplace](https://github.com/marketplace)
 
 [Checkout](https://github.com/actions/checkout)
