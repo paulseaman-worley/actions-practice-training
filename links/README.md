@@ -293,6 +293,8 @@
 
 <details>
 
+[CLI for compiling a Node.js module into a single file](https://github.com/vercel/ncc)
+
 [Managing signed commits](https://docs.github.com/en/enterprise-cloud@latest/authentication/managing-commit-signature-verification)
 
 [Marketplace](https://github.com/marketplace)
